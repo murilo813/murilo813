@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**murilo813/murilo813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🔭 I’m currently working on: AgroZecao
+- 🔭 I am currently developing a tool for internal company use across various departments, working independently with full responsibility for its production and maintenance. The implementation involves Python, HTML, CSS, Flask, PostgreSQL, and a bit of JavaScript. In the future, an app linked to this tool will also be developed.
+- 🌱 I’m currently learning: Software engineering
+- 💬 Ask me about: Web development and DataBase
+- 📫 How to reach me: On my Instagram or Linkedin
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+### 🚀 My Technologies
+- **Languages:** Python, HTML/CSS, JavaScript
+- **Frameworks:** Django, Flask
+- **Others:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools and Contact
+- [My Portfolio](link-do-portfolio)
+- [My LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/murilo-de-souza-175899305/))
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo813)
+
+## Tools
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
