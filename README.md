@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 
 ### 🚀 Technologies & Tools
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
 - **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat) ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat)
