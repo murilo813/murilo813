@@ -1,5 +1,5 @@
 ## About me
-- 🔭 I’m currently working on: AgroZecao
+- 🔧 I’m currently working on: AgroZecao
 - 🔭 I am currently developing a tool for internal company use across various departments, working independently with full responsibility for its production and maintenance. The implementation involves Python, HTML, CSS, Flask, PostgreSQL, and a bit of JavaScript. In the future, an app linked to this tool will also be developed.
 - 🌱 I’m currently learning: Software engineering
 - 💬 Ask me about: Web development and DataBase
