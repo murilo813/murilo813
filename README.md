@@ -15,8 +15,13 @@
 
 ### 🛠️ Tools and Contact
 - [My Portfolio](link-do-portfolio)
-- [My LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/murilo-de-souza-175899305/))
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo813)
+- [My LinkedIn]((https://www.linkedin.com/in/murilo-de-souza-175899305/))
 
 ## Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
+
