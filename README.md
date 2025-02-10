@@ -10,15 +10,15 @@
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat)
 
-### 🛠️ Tools and Contact
-- [My Portfolio](https://murilo813.github.io/personal-website/)
-- [My LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/).
+### 👨‍💻 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/)
+- [Portfolio](https://murilo813.github.io/personal-website/)
+- 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
+
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&langs_count=5&theme=radical)
+
+
 
 
