@@ -16,7 +16,7 @@
 - [My LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/).
 
 ## Tools
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
