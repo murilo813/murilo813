@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning: Software engineering
 - 😄 Pronouns: he/him
 
-### 🚀 My Technologies
-- **Languages:** Python, HTML/CSS, JavaScript
-- **Frameworks:** Django, Flask
-- **Others:** PostgreSQL
+### 🚀 Technologies & Tools
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat) ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)
+- **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat)
 
 ### 🛠️ Tools and Contact
 - [My Portfolio](https://murilo813.github.io/personal-website/)
@@ -20,6 +21,4 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
 
-## 🏆 Achievements
-- 🔥 Contributed to [open-source project X](https://github.com/example) improving its performance by 20%.
-- 🚀 Built [my portfolio website](https://murilo813.github.io/personal-website/) using HTML, CSS, and JavaScript.
+
