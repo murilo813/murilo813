@@ -16,10 +16,4 @@
 - [Portfolio](https://murilo813.github.io/personal-website/)
 - 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&langs_count=5&theme=radical"/>
-</div> 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://raw.githubusercontent.com/murilo813/murilo813/main/banner.png" width="100%">
