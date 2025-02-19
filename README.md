@@ -15,6 +15,3 @@
 - [LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/)
 - [Portfolio](https://murilo813.github.io/personal-website/)
 - 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="500">
-![Profile views](https://komarev.com/ghpvc/?username=murilo813&color=blue)
