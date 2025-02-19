@@ -1,8 +1,9 @@
 # Hello, I'm Murilo de Souza 👋
+🚀 Full-Stack Developer | Web Designer | Software Engineer Student  
+
 - 🔧 I’m currently working on: AgroZecao
 - 🔭 I am currently developing a tool for internal company use across various departments, working independently with full responsibility for its production and maintenance. The implementation involves Python, HTML, CSS, Flask, PostgreSQL, and a bit of JavaScript. In the future, an app linked to this tool will also be developed.
 - 🌱 I’m currently learning: Software engineering
-- 😄 Pronouns: he/him
 
 ### 🚀 Technologies & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
@@ -15,9 +16,6 @@
 - [Portfolio](https://murilo813.github.io/personal-website/)
 - 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
 
-
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&langs_count=5&theme=radical)
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=radical"/>
