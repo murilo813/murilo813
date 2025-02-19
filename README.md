@@ -22,6 +22,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&langs_count=5&theme=radical"/>
 </div> 
 
-
-
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
