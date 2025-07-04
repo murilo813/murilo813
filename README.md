@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/)
-- [Portfolio](https://murilo813.github.io/personal-website/)
+- [Portfolio](https://murilo813.github.io/my-website/)
 - 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
 
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeSouza&show_icons=true&theme=radical)
