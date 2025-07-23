@@ -16,4 +16,4 @@
 - [Portfolio](https://murilo813.github.io/my-website/)
 - 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
 
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&count_private=true&show_icons=true&cache_seconds=1)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeSouza&show_icons=true&theme=radical)
