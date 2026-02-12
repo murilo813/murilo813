@@ -17,7 +17,7 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | <img src="https://skillicons.dev/icons?i=rust,python,dart,js" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=tokio,fastapi,flask,flutter,vue" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi,flask,flutter,vue,tokio" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman" /> |
 
