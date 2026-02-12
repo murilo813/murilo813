@@ -1,15 +1,16 @@
 # Hi, I'm Murilo de Souza 🦀👾
 
-Software Engineer focado em sistemas de alta performance, soluções escaláveis e arquitetura de dados. Atualmente especializado no ecossistema **Rust** e **Python** para backend, **Flutter** para mobile e **Vue.js** para frontend web. Especialista em transformar problemas complexos em sistemas performáticos.
+Software Engineer especializado em sistemas de alta performance e arquitetura de dados. 
+Foco em **Rust** para backends críticos, **Python** para engenharia de dados e **Flutter/Vue** para aplicações fullstack escaláveis.
+Construindo sistemas onde cada milissegundo importa.
 
 ---
 
 ### 🛠 No que estou trabalhando agora:
-* **Alembro**: Desenvolvendo um ecossistema completo (Web/Mobile) para CRM e força de vendas do zero integrado a diversos sistemas ERP's.
-* **VortexDB**: Engine de banco de dados desenvolvida para estudo de fundamentos de indexação e armazenamento. Protótipo em **Python** com migração do core para **Rust**. Visando tornar esse DB uma opção em projetos futuros.
-* **Vortex Lang**: Explorando as profundezas da criação de linguagens e compiladores. `Carregando...`
-* **Outros**: Desenvolvendo soluções diversas para integração com dados de sistemas legados, scripts de sincronização de dados massivos, substituição de utilitários por verões melhores e mais performáticas.
-
+* **Alembro**: Construindo um CRM fullstack do zero com arquitetura escalável e integração com múltiplos ERPs.
+* **VortexDB**: Engine de banco de dados desenvolvida para estudo de fundamentos de indexação e armazenamento. Protótipo em **Python** com migração do core para **Rust**. Projeto com objetivo de evoluir para uso real em aplicações futuras.
+* **Vortex Lang**: Estudo de parsing, análise léxica e construção de compiladores. `Carregando...`
+* **Outros**: Desenvolvendo soluções diversas para integração com dados de sistemas legados, scripts de sincronização de dados massivos, reescrita e otimização de utilitários legados visando ganho de performance e redução de complexidade.
 ---
 
 ### 🧰 Stack Tecnológica
@@ -25,7 +26,14 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 
 ---
 
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/murilo-de-souza-175899305" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.instagram.com/murilo_gllx?igsh=aXlqaHEwbG5xNmww" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="mailto:contato.murilodevv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 
+---
 ```rust
 fn main() {
     let developer = "Murilo de Souza";
@@ -40,17 +48,3 @@ fn main() {
     println!("{}: Building systems where every millisecond counts.", developer);
 }
 ```
-
----
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/murilo-de-souza-175899305" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/murilo_gllx?igsh=aXlqaHEwbG5xNmww" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  <a href="mailto:contato.murilodevv@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-</p>
