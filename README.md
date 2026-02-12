@@ -1,44 +1,39 @@
-# Hi, curious soul 👾
-🚀 Full-Stack Developer | Web Designer | Software Engineer Student  
+# Hi, I'm Murilo de Souza 🦀👾
 
-- 🔧 I’m currently working on: AgroZecao
-- 🔭 I am currently developing a tool for internal company use across various departments, working independently with full responsibility for its production and maintenance. The implementation involves Python, HTML, CSS, Flask, PostgreSQL, and a bit of JavaScript. In the future, an app linked to this tool will also be developed.
-- 🌱 I’m currently learning: Software engineering 
+Software Engineer focado em sistemas de alta performance, soluções escaláveis e arquitetura de dados. Atualmente especializado no ecossistema **Rust** e **Python** para backend, **Flutter** para mobile e **Vue.js** para frontend web. Especialista em transformar problemas complexos em sistemas performáticos.
 
-### 🚀 Technologies & Tools
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Spoon Pentaho](https://img.shields.io/badge/-Spoon%20Pentaho-blue?logo=apachekafka&logoColor=white&style=flat) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-orange?logo=cloudflare&logoColor=white&style=flat) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
-
-### 👨‍💻 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/murilo-de-souza-175899305/)
-- [Portfolio](https://murilo813.github.io/my-website/)
-- 📧 Reach me at: [contato.murilodevv@gmail.com](mailto:contato.murilodevv@gmail.com)
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloDeSouza&show_icons=true&theme=radical)
-
-
-
-# Hi, I'm Murilo de Souza 🦀📱
-
-Software Engineer focado em sistemas de alta performance, soluções escaláveis e arquitetura de dados. Atualmente especializado no ecossistema **Rust** para backend e **Flutter** para mobile.
+---
 
 ### 🛠 No que estou trabalhando agora:
-* **Agro Zecão**: Desenvolvendo um ecossistema completo (ERP/Mobile) para gestão agropecuária. Refatorei o core da API de Python para **Rust (Axum)**, reduzindo a latência de sincronização em **65%**.
-* **VortexDB**: Construindo um database engine do zero em Rust para entender os fundamentos de armazenamento e indexação de dados.
-* **Mobile**: Criando apps robustos com **Flutter** focados em funcionamento offline e sincronização resiliente.
+* **Alembro**: Desenvolvendo um ecossistema completo (Web/Mobile) para CRM e força de vendas do zero integrado a diversos sistemas ERP's.
+* **VortexDB**: Engine de banco de dados desenvolvida para estudo de fundamentos de indexação e armazenamento. Protótipo em **Python** com migração do core para **Rust**. Visando tornar esse DB uma opção em projetos futuros.
+* * **Vortex Lang**: Explorando as profundezas da criação de linguagens e compiladores. `Carregando...`
+* **Outros**: Desenvolvendo soluções diversas para integração com dados de sistemas legados, scripts de sincronização de dados massivos, substituição de utilitários por verões melhores e mais performáticas.
 
-### 🧰 Tecnologias & Ferramentas
-* **Languages**: ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* **Backend**: **Axum**, **Tokio**, SQLx, FastAPI, Flask.
-* **Database**: **PostgreSQL**, SQLite, Redis.
-* **Infra & Tools**: Docker, Google Cloud, Cloudflare, Git, Windows Server 2025.
+---
 
-### 📊 Estatísticas
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight)
+### 🧰 Stack Tecnológica
 
-### 📫 Vamos conversar?
-* [LinkedIn](SEU_LINK)
-* [Email](mailto:contato.murilodevv@gmail.com)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=rust,python,dart,js" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=axum,fastapi,flask,flutter,vue" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman" /> |
+
+> **Nota**: No ecossistema Rust, utilizo **Tokio** para concorrência e **SQLx** para persistência de dados segura. Também trabalho com **ISAR** para persistência local de alta performance no Flutter.
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight&hide=html,css" height="150" alt="languages card" />
+</p>
+
+---
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://linkedin.com/in/SEU_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo813" height="30" width="40" /></a>
+<a href="mailto:contato.murilodevv@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="murilo813" height="30" width="40" /></a>
+</p>
