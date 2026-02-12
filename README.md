@@ -34,17 +34,4 @@ Construindo sistemas onde cada milissegundo importa.
 </p>
 
 ---
-```rust
-fn main() {
-    let developer = "Murilo de Souza";
-    let focus = vec!["High Performance Systems", "Data Architecture"];
-    
-    let active_projects = vec![
-        "Alembro (Fullstack Ecosystem)",
-        "VortexDB (Database Engine)",
-        "Vortex Lang (Custom Language)"
-    ];
-
-    println!("{}: Building systems where every millisecond counts.", developer);
-}
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight)
