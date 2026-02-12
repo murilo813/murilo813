@@ -34,5 +34,4 @@ Construindo sistemas onde cada milissegundo importa.
 </p>
 
 ---
-### 📊 Top Languages (Real-time Stats)
-![Languages](https://metrics.lecoq.io/murilo813?template=repository&languages=1&languages.ignored=html,css,scss&config.timezone=America/Sao_Paulo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813)](https://github.com/anuraghazra/github-readme-stats)
