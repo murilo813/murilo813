@@ -7,7 +7,7 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 ### 🛠 No que estou trabalhando agora:
 * **Alembro**: Desenvolvendo um ecossistema completo (Web/Mobile) para CRM e força de vendas do zero integrado a diversos sistemas ERP's.
 * **VortexDB**: Engine de banco de dados desenvolvida para estudo de fundamentos de indexação e armazenamento. Protótipo em **Python** com migração do core para **Rust**. Visando tornar esse DB uma opção em projetos futuros.
-* * **Vortex Lang**: Explorando as profundezas da criação de linguagens e compiladores. `Carregando...`
+* **Vortex Lang**: Explorando as profundezas da criação de linguagens e compiladores. `Carregando...`
 * **Outros**: Desenvolvendo soluções diversas para integração com dados de sistemas legados, scripts de sincronização de dados massivos, substituição de utilitários por verões melhores e mais performáticas.
 
 ---
@@ -27,8 +27,8 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilo813&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight&hide=html,css" height="150" alt="languages card" />
+  <img src="https://github-readme-stats-tau-five.vercel.app/api?username=murilo813&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight&hide=html,css" height="150" alt="languages card" />
 </p>
 
 ---
