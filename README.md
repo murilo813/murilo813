@@ -34,4 +34,7 @@ Construindo sistemas onde cada milissegundo importa.
 </p>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight)
+### 📊 Linguagens mais utilizadas
+<p align="left">
+  <img src="https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight&hide=html,css,scss,jupyter%20notebook" height="150" alt="languages card" />
+</p>
