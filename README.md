@@ -25,10 +25,21 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 
 ---
 
-### 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=murilo813&theme=tokyonight&no-bg=true&margin-w=15" height="150" />
-</p>
+
+```rust
+fn main() {
+    let developer = "Murilo de Souza";
+    let focus = vec!["High Performance Systems", "Data Architecture"];
+    
+    let active_projects = vec![
+        "Alembro (Fullstack Ecosystem)",
+        "VortexDB (Database Engine)",
+        "Vortex Lang (Custom Language)"
+    ];
+
+    println!("{}: Building systems where every millisecond counts.", developer);
+}
+```
 
 ---
 ### 📫 Let's Connect!
