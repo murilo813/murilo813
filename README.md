@@ -25,12 +25,21 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 
 ---
 
-### 📈 Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilo813&theme=tokyonight)
+### 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=murilo813&theme=tokyonight&no-bg=true&margin-w=15" height="150" />
+</p>
 
 ---
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/murilo-de-souza-175899305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo813" height="30" width="40" /></a>
-<a href="mailto:contato.murilodevv@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="murilo813" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/murilo-de-souza-175899305" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/murilo_gllx?igsh=aXlqaHEwbG5xNmww" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="mailto:contato.murilodevv@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
