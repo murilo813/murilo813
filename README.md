@@ -25,15 +25,12 @@ Software Engineer focado em sistemas de alta performance, soluções escaláveis
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-tau-five.vercel.app/api?username=murilo813&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats-tau-five.vercel.app/api/top-langs/?username=murilo813&layout=compact&theme=tokyonight&hide=html,css" height="150" alt="languages card" />
-</p>
+### 📈 Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilo813&theme=tokyonight)
 
 ---
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/SEU_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo813" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murilo-de-souza-175899305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo813" height="30" width="40" /></a>
 <a href="mailto:contato.murilodevv@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="murilo813" height="30" width="40" /></a>
 </p>
