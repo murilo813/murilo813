@@ -73,7 +73,7 @@ class GitHubAPI:
             issues {
               totalCount
             }
-            repositories(ownerAffiliations: OWNER, first: 100) {
+            repositories(ownerAffiliations: OWNER, first: 100, privacy: [PUBLIC, PRIVATE]) {
               totalCount
               nodes {
                 stargazerCount
@@ -93,15 +93,11 @@ class GitHubAPI:
                 json={"query": query, "variables": {"username": self.username}},
             )
             resp.raise_for_status()
-        except requests.exceptions.Timeout:
-            logger.warning("GraphQL request timed out, falling back to REST.")
-            return self._fetch_stats_rest()
-        except requests.exceptions.HTTPError as e:
-            logger.warning("GraphQL HTTP error (%s), falling back to REST.", e)
+        except requests.exceptions.RequestException as e:
+            logger.warning("GraphQL error (%s), falling back to REST.", e)
             return self._fetch_stats_rest()
 
         data = resp.json()
-
         if "errors" in data:
             logger.warning("GraphQL errors: %s", data["errors"])
             return self._fetch_stats_rest()
@@ -169,13 +165,17 @@ class GitHubAPI:
         """Yield pages of owned repos from the REST API."""
         page = 1
         while True:
-            repos_resp = self._request(
-                "GET",
-                f"{self.REST_URL}/users/{self.username}/repos",
-                params={"per_page": 100, "page": page, "type": "owner"},
-            )
+            if self.token:
+                url = f"{self.REST_URL}/user/repos"
+                params = {"per_page": 100, "page": page, "type": "owner", "visibility": "all"}
+            else:
+                url = f"{self.REST_URL}/users/{self.username}/repos"
+                params = {"per_page": 100, "page": page, "type": "owner"}
+
+            repos_resp = self._request("GET", url, params=params)
             repos_resp.raise_for_status()
             repos = repos_resp.json()
+            
             if not repos:
                 break
             yield repos
