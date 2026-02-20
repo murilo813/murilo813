@@ -68,9 +68,46 @@ projects:
   - repo: "murilo813/AlembroAPP"
     arm: 1
     description: "App de força de vendas e CRM."
-  - repo: "murilo813/BackendRust"
+
+  - repo: "murilo813/Alembro-BackendRust"
     arm: 0
-    description: "API de alta performance em Rust para sincronização de dados ERP."
+    description: "API de alta performance em Rust para o AlembroAPP."
+
+  - repo: "murilo813/Alembro-BackendFastAPI" 
+    arm: 0
+    description: "Versão anterior do backend Alembro desenvolvida com FastAPI e Python."
+
+  - repo: "murilo813/New-Report"
+    arm: 1
+    description: "Programa para substituir geradores de relatórios que usam bancos legados como DBISAM." 
+
+  - repo: "murilo813/VortexDB"
+    arm: 0
+    description: "Banco de Dados relacional persistente de latência ultra-baixa."  
+
+  - repo: "murilo813/Alembro-LandingPage"
+    arm: 1
+    description: "LandingPage para a Alembro Techs & Systems." 
+
+  - repo: "murilo813/DBISAM-Translate"
+    arm: 0
+    description: "Programa extrator de dados do DBISAM para CSV sem uso de licenças ou drivers."
+
+  - repo: "murilo813/Scripts" 
+    arm: 0
+    description: "Scripts gerais como: integrador de alta performance para migração entre DBISAM, Postgres e MySQL."
+
+  - repo: "murilo813/Alembro-WebERP"
+    arm: 1
+    description: "Web ERP integrado a um ERP para complementação de dados e análises."
+
+  - repo: "murilo813/RDP-Queue"
+    arm: 0
+    description: "Programa Cliente-Servidor de fila para automações que usam RDP's." 
+
+  - repo: "murilo813/Bot-Afiliado-Telegram" 
+    arm: 2 
+    description: "Bot de automação para afiliados: scraping, geração de links e postagem automática."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
