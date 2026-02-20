@@ -73,11 +73,11 @@ class GitHubAPI:
             issues {
               totalCount
             }
-            repositories(ownerAffiliations: OWNER, first: 100, privacy: [PUBLIC, PRIVATE]) {
-              totalCount
-              nodes {
-                stargazerCount
-              }
+            repositories(ownerAffiliations: OWNER, first: 100) {
+                totalCount
+                nodes {
+                    stargazerCount
+                }
             }
             contributionsCollection {
               totalCommitContributions
@@ -167,7 +167,7 @@ class GitHubAPI:
         while True:
             if self.token:
                 url = f"{self.REST_URL}/user/repos"
-                params = {"per_page": 100, "page": page, "type": "owner", "visibility": "all"}
+                params = {"per_page": 100, "page": page, "visibility": "all", "affiliation": "owner"}
             else:
                 url = f"{self.REST_URL}/users/{self.username}/repos"
                 params = {"per_page": 100, "page": page, "type": "owner"}
